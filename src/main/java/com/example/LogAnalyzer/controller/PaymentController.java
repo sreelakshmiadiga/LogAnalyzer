@@ -1,4 +1,5 @@
 package com.example.LogAnalyzer.controller;
+import org.springframework.stereotype.Service;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
@@ -16,6 +17,7 @@ public class PaymentController {
 }
 
 // Simple service for the controller to use
+@Service
 class PaymentService {
     public String execute(String id) {
         return "Payment " + id + " processed successfully!";
