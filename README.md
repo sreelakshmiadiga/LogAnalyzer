@@ -2,14 +2,14 @@
 
 a] *On local machine*
 
-Download: Go to the below link
+Download: Go to the link -
 ollama.com/download/mac.
 
 Install: Unzip Ollama-darwin.zip and move the Ollama app to your Applications folder.
 
 Launch: Double-click the app. You'll see a 🦙 icon in your top Menu Bar.
 
-Pull: Now you can run below command on your terminal 
+Pull: Now you can run command on your terminal -
 ollama pull llama3.2 
 
 b] *Alternative : Pulling Ollama docker image via colima*
