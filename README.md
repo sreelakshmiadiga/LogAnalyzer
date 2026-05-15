@@ -1,4 +1,4 @@
-*Ollama set up*
+  **Ollama set up**
 
 a] *On local machine*
 
