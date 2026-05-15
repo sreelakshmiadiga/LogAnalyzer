@@ -11,9 +11,7 @@ Launch: Double-click the app. You'll see a 🦙 icon in your top Menu Bar.
 Pull: Now you can run below command on your terminal 
 ollama pull llama3.2 
 
-====
 *Alternative : Pulling Ollama docker image via colima*
-====
 
 1. brew install colima docker
 
